@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473151399561",
+    "firebase_url": "https://newp-e69ee-default-rtdb.firebaseio.com",
+    "project_id": "newp-e69ee",
+    "storage_bucket": "newp-e69ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473151399561:android:6609e05893f7322d548858",
+        "android_client_info": {
+          "package_name": "com.example.testmode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473151399561-g9g11m57un3doev2an731b3tdcvvpevc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testmode",
+            "certificate_hash": "6834bd22e36acf623cb697771132f488a6efe7c7"
+          }
+        },
+        {
+          "client_id": "473151399561-uci1jg4c6e9619rc17d2mavrp3nfm97r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4EMh-vReKk5eUyUPdoAxKc18PebxkQ7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473151399561-uci1jg4c6e9619rc17d2mavrp3nfm97r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

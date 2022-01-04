@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Testmode</string>
+    <string name="Settings">Settings</string>
+    <string name="signout">signout</string>
+</resources>
